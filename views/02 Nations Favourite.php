@@ -9,7 +9,7 @@
  				<div class="dinosaur sprite" data-src="dinosaur.png" data-width="114" data-height="117" data-cols="71" data-delay="6000" data-startdelay="4000"></div>			
  				<div class="grass"></div>
  				<div class="pipe sprite" data-src="pipe.png" data-width="472" data-height="225" data-cols="17" data-delay="7000"></div>
-				<img src="https://adrendon.github.io/parallax/images/suelo.png" class="level">
+				<img src="https://costa-experience.s3.amazonaws.com/img/02 Nations Favourite/level-1.png" class="level">
 				<div class="cloud-top"></div>
 			</li>
 			<li class="box box2 layer" data-depth="0.00">
